@@ -6,13 +6,17 @@ Welcome to the MSIA Dashboard Honeycomb Rainmeter skins! Think of these like the
 Why You'll Love It:
 
 Make It Yours: You can change how it looks to match your style. Pick your favorite colors, fonts, and sizes.
+
 See What's Going On: These meters keep an eye on your computer's health and performance. They change color to tell you if everything's okay or if there's a problem.
 
 Real-Time Info on Your PC: You can keep track of important things like how hard your computer is working, how hot it's getting, how smoothly your games are running, and lots more. It's like having a computer doctor!
+
 No Complicated Setup: You won't need a tech degree to use this. It's super simple. Just download, select your devices using the check boxes (if needed), and enjoy. 
+
 Smart and Automatic: It's so smart; it can even figure out what's inside your computer and set itself up properly. No fuss, no mess.
 
 Helpful Tips: Hover your mouse over the icons, and you'll get little pop-up messages that tell you more about your computer. It's like having a helpful friend.
+
 Stay in the Green: The meters have colors to tell you if everything's okay or if there's a problem. Green is good; red means something's not right.
 
 Peace of Mind: The “Restore Default Settings” button in the settings menu means you can always revert to the original settings if you decide to customize the look of the overlays.
