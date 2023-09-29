@@ -1,5 +1,4 @@
 # MSIA-Dashboard-Honeycombs
-MSIA Dashboard Honeycombs
 
 Welcome to the MSIA Dashboard Honeycomb Rainmeter skins! Think of these like the dashboard in your car but for your computer. They're elegant and user-friendly tools designed to show you what's happening inside your PC in real-time. It's as easy to use as adjusting your car's radio.
 
